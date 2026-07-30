@@ -9,7 +9,7 @@ import { maintenance } from './maintenance'
 import { scope } from "./scope"
 
 export const titleSequence = {
-    'intro': `Rhema's New Site`,
+    'intro': `Your New Site`,
     'mission': `Site Mission`,
     'market-research': `Market Research`,
     'proposal': `Suggested Improvements`,
